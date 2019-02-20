@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "exitslips",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "an app for creating and using exit slips",
   "engines": {
     "node": ">= 7.0.0"
   },
